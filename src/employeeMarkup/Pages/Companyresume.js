@@ -29,7 +29,7 @@ function EmployeeCompanyresume() {
                   <div className="job-bx clearfix">
                     <div className="job-bx-title clearfix">
                       <h5 className="font-weight-700 pull-left text-uppercase">
-                        Resume
+                        Applicants
                       </h5>
                       <Link
                         to={"/company-manage-job"}
